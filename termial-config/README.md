@@ -1,4 +1,4 @@
-GNOME Terminal itself doesn't provide such an option, so you have to manually operate on its database.
+GNOME Terminal itself doesn't provide any backup data option, so you have to manually operate on its database.
 
 Beginning with version 3.8 it uses GSettings, which in turn (at least on Linux systems) uses dconf. It would probably be more elegant to go with the gsettings tool. Unfortunately I couldn't figure out how to dump all the relevant data there, let alone restore them. So let's use dconf.
 
