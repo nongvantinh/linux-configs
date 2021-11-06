@@ -1,4 +1,8 @@
-[/]
+[legacy/profiles:]
+default='f5ebf9b6-7851-4772-8d00-3ed37591885f'
+list=['f5ebf9b6-7851-4772-8d00-3ed37591885f']
+
+[legacy/profiles:/:f5ebf9b6-7851-4772-8d00-3ed37591885f]
 background-color='rgb(47,54,64)'
 background-transparency-percent=0
 bold-color='rgb(194,54,22)'
