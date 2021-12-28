@@ -1,8 +1,8 @@
 [legacy/profiles:]
-default='f5ebf9b6-7851-4772-8d00-3ed37591885f'
-list=['f5ebf9b6-7851-4772-8d00-3ed37591885f']
+default='24a1ccf5-0844-4714-a294-643f4a020818'
+list=['24a1ccf5-0844-4714-a294-643f4a020818', 'b084661d-7c2e-4172-81b2-3537dec7eeb3']
 
-[legacy/profiles:/:f5ebf9b6-7851-4772-8d00-3ed37591885f]
+[legacy/profiles:/:24a1ccf5-0844-4714-a294-643f4a020818]
 background-color='rgb(47,54,64)'
 background-transparency-percent=0
 bold-color='rgb(194,54,22)'
@@ -15,9 +15,29 @@ foreground-color='rgb(0,151,230)'
 highlight-background-color='rgb(53,59,72)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(194,54,22)'
-palette=['rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(232,65,24)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)']
+palette=['rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(0,151,230)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(255,0,0)', 'rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(255,255,255)', 'rgb(225,177,44)', 'rgb(0,113,255)', 'rgb(0,0,0)']
 use-system-font=false
 use-theme-colors=false
 use-theme-transparency=true
 use-transparent-background=false
-visible-name='custom1'
+visible-name='custom2'
+
+[legacy/profiles:/:b084661d-7c2e-4172-81b2-3537dec7eeb3]
+background-color='rgb(47,54,64)'
+background-transparency-percent=0
+bold-color='rgb(194,54,22)'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='rgb(0,151,230)'
+cursor-colors-set=true
+cursor-foreground-color='rgb(0,168,255)'
+foreground-color='rgb(0,151,230)'
+highlight-background-color='rgb(53,59,72)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(194,54,22)'
+palette=['rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(232,65,24)', 'rgb(0,0,0)', 'rgb(0,151,230)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(0,0,0)', 'rgb(225,177,44)', 'rgb(0,113,255)', 'rgb(0,0,0)']
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=true
+use-transparent-background=false
+visible-name='backup'
