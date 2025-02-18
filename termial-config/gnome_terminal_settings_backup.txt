@@ -1,3 +1,6 @@
+[legacy]
+theme-variant='dark'
+
 [legacy/profiles:]
 default='24a1ccf5-0844-4714-a294-643f4a020818'
 list=['24a1ccf5-0844-4714-a294-643f4a020818', 'b084661d-7c2e-4172-81b2-3537dec7eeb3']
@@ -5,21 +8,21 @@ list=['24a1ccf5-0844-4714-a294-643f4a020818', 'b084661d-7c2e-4172-81b2-3537dec7e
 [legacy/profiles:/:24a1ccf5-0844-4714-a294-643f4a020818]
 background-color='rgb(28,36,49)'
 background-transparency-percent=0
-bold-color='rgb(194,54,22)'
+bold-color='rgb(76,209,55)'
 bold-color-same-as-fg=false
 bold-is-bright=false
-cursor-background-color='rgb(0,151,230)'
+cursor-background-color='rgb(72,126,176)'
 cursor-colors-set=true
 cursor-foreground-color='rgb(0,168,255)'
 foreground-color='rgb(0,151,230)'
-highlight-background-color='rgb(53,59,72)'
+highlight-background-color='rgb(127,143,166)'
 highlight-colors-set=true
-highlight-foreground-color='rgb(194,54,22)'
-palette=['rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(0,151,230)', 'rgb(0,0,0)', 'rgb(255,0,0)', 'rgb(255,0,0)', 'rgb(0,0,0)', 'rgb(232,65,24)', 'rgb(245,246,250)', 'rgb(225,177,44)', 'rgb(0,113,255)', 'rgb(0,0,0)']
+highlight-foreground-color='rgb(245,246,250)'
+palette=['rgb(203,105,105)', 'rgb(232,65,24)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(232,65,24)', 'rgb(251,197,49)', 'rgb(0,151,230)', 'rgb(76,209,55)', 'rgb(255,0,0)', 'rgb(255,0,0)', 'rgb(0,168,255)', 'rgb(232,65,24)', 'rgb(245,246,250)', 'rgb(225,177,44)', 'rgb(0,113,255)', 'rgb(245,246,250)']
 use-system-font=false
 use-theme-colors=false
-use-theme-transparency=true
-use-transparent-background=false
+use-theme-transparency=false
+use-transparent-background=true
 visible-name='custom2'
 
 [legacy/profiles:/:b084661d-7c2e-4172-81b2-3537dec7eeb3]
